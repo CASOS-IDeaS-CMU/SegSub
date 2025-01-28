@@ -1,0 +1,4002 @@
+[
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/1342_1342046.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is sheet music?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "1342046",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/263136_263136004.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is there any humans here?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "263136004",
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/197262_197262003.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the white thing in the middle of the pizza?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "197262003",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/397523_397523002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is this subway car empty?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "397523002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/371638_371638003.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What cartoon character is painted on the train?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "371638003",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/263351_263351001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Does this woman look happy?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "263351001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/1342_1342085.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Who is showing off that image?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "1342085",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/133125_133125000.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Would a wedding cake be the same predominant color as this picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "133125000",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/187695_187695002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What kind of food is this?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "187695002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/528225_528225012.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Are there flowers?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "528225012",
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/3793_3793002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What digital message is the bus displaying?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "3793002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/524535_524535000.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Are these chicken eggs?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "524535000",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/526723_526723009.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What color is the photo?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "526723009",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/525899_525899001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is the photo in black and white?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "525899001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/4498_4498001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is he about to grind the rail?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "4498001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/546191_546191002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How many people are in this picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "546191002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/393277_393277001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What's the statue of?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "393277001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/395665_395665001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is this a man or a woman?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "395665001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/396821_396821003.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What color is the water?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "396821003",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/527497_527497005.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is there a door visible in this picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "527497005",
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/131557_131557001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What topping are on the pizza?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "131557001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/524637_524637002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What shape are the floor tiles?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "524637002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/265153_265153001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What color is the animal?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "265153001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/109992_109992002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How many people are outside?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "109992002",
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/527064_527064002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is this pizza homemade?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "527064002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/393864_393864003.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is the food half eaten?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "393864003",
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/526044_526044028.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Can you see a reflection of a cow in the ponds surface?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "526044028",
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/136572_136572001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Are there two motorcycles here?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "136572001",
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/524621_524621018.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What kind of animals are in the dry grass?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "524621018",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/267628_267628005.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is this a major city?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "267628005",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/568191_568191002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What color is the bird?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "568191002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/395113_395113007.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Does this bus take people on tours?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "395113007",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/525665_525665006.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What kind of building are the cows in?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "525665006",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/393984_393984002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is looking at the lady?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "393984002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/526570_526570000.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is this daytime?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "526570000",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/170389_170389003.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Are both monitors manufactured by the same company?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "170389003",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/396252_396252002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What type of tree is the bird on?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "396252002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/266379_266379007.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is the cat wearing a collar?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "266379007",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/1525_1525016.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is this a city?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "1525016",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/3501_3501002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is there meat in this dish?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "3501002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/415872_415872001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is he a fat man?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "415872001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/397063_397063002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is in his hand?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "397063002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/2985_2985004.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the man riding?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "2985004",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/393274_393274005.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is there smoke coming out of the train?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "393274005",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/528201_528201002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Does the man enjoy tennis?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "528201002",
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/398236_398236002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Would a vegan eat this?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "398236002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/134213_134213001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is this place open at 9 am?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "134213001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/263613_263613001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What animal is in foreground?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "263613001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/397121_397121000.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What type of bird is in the photo?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "397121000",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/262642_262642002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is this person holding?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "262642002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/136555_136555001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is the baby going to a special event?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "136555001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/262800_262800004.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is the landing gear of the plane up?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "262800004",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/1342_1342075.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is the print small?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "1342075",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/131617_131617000.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the girl in front doing?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "131617000",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/136624_136624005.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What color is the plat?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "136624005",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/536_536001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is the blonde lady smiling?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "536001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/546877_546877001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is there a canoe in the picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "546877001",
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/134199_134199000.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Do the elephants look thirsty?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "134199000",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/43816_43816027.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is the umpire standing?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "43816027",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/132415_132415013.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How many bites does it look like was taken?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "132415013",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/174989_174989000.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is this a prom or wedding or other similar formal event?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "174989000",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/396692_396692010.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is this train the first in line?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "396692010",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/394259_394259001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What color is the bowl?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "394259001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/528604_528604019.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Do the two seem comfortable with each other?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "528604019",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/526044_526044015.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the cow looking at?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "526044015",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/132059_132059000.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is in the package?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "132059000",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/397287_397287001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What material is the sign made of?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "397287001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/528011_528011000.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is this an Arabian horse?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "528011000",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/398537_398537009.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What character is on the umbrella?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "398537009",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/1342_1342069.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the last word in the English language sign on the left?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "1342069",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/527064_527064001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is there meat on this pizza?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "527064001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/133707_133707002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the cat doing?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "133707002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/525587_525587002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Will this vehicle leave the area soon?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "525587002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/5282_5282002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How many people are in the water?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "5282002",
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/131295_131295005.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the title of the person that drives this?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "131295005",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/73_73002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What color is the bike?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "73002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/528011_528011001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How many sets of tire tracks are in the picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "528011001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/264336_264336002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is the bike rider heading East or West?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "264336002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/529404_529404002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Who is older?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "529404002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/132415_132415024.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How big is this slice of pizza?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "132415024",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/393410_393410010.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What's in the sky?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "393410010",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/262197_262197001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the color of the building in the background?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "262197001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/526028_526028002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is this a balanced meal?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "526028002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/135673_135673010.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How are the planets different?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "135673010",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/187695_187695001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the white stuff on the food?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "187695001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/134811_134811004.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is there vegetables on this pizza?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "134811004",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/1342_1342052.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is this a restaurant?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "1342052",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/776_776002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How many bears are there in the picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "776002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/358039_358039008.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is this Italian food?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "358039008",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/133377_133377001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is he in a barn?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "133377001",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/265256_265256002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What flag is the kite styled after?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "265256002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/4256_4256000.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is there enough bread for two people?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "4256000",
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/2239_2239005.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is this a professional tennis player?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "2239005",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/396410_396410001.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How many farm animals?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "396410001",
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/536_536019.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What are the girls doing?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "536019",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/524638_524638000.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is there a boy?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "524638000",
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/136584_136584003.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is the bird sitting on a branch?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "136584003",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/397403_397403000.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is the bird sitting on a branch?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "397403000",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/262896_262896003.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is this meal?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "262896003",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "vqa/object_removal/val/396274_396274002.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Are these plants growing in this location naturally or because of human intervention?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "vqa",
+        "id": "396274002",
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/340472_3404725.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What do you call the device that keeps boats in place at sea?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3404725,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/147667_1476675.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What does this move have in common with what a waitress does?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 1476675,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/306524_3065245.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the tallest of this type of building in the world?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3065245,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/291672_2916725.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What type of boats are those?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 2916725,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/523360_5233605.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What product is this advertising?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 5233605,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/580757_5807575.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the colorful object used for?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 5807575,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/184388_1843885.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Who is famous for allegedly doing this in a lightning storm?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 1843885,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/114420_1144205.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is the bird in the picture a carnivore or herbivore?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 1144205,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/240605_2406055.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What might be the weight of this luggage?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 2406055,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/89898_898985.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What kind of trick is that?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 898985,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/45070_450705.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What gait is the horse traveling at?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 450705,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/474711_4747115.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the traditional name for this kind of structure?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 4747115,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/575156_5751565.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What event are they planning for?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 5751565,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/315790_3157905.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the scientific name of the animal on the chair?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3157905,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/526721_5267215.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is this animal a carnivore herbivore or omnivore?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 5267215,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/462978_4629785.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What animal is on the cup?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 4629785,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/333808_3338085.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Name the bird?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3338085,
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/396556_3965565.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What food do these animals eat?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3965565,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/542777_5427775.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How is this side dish made?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 5427775,
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/332351_3323515.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What kind of place is this?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3323515,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/541664_5416645.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: This display is taken from what famous children's novel?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 5416645,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/561314_5613145.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is inside the package?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 5613145,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/508748_5087485.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: At what time of day might you eat this kind of food?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 5087485,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/56736_567365.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What kind of plane is flying?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 567365,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/505891_5058915.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What kind of cat is this?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 5058915,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/115060_1150605.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Who invented the mechanical device on this picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 1150605,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/397890_3978905.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Which person is the groom?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3978905,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/328838_3288385.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How many people are eating these pancakes?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3288385,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/151516_1515165.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the name of the bird in this picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 1515165,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/360986_3609865.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is a baby cow called?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3609865,
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/381318_3813185.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What are the plates made of?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3813185,
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/309514_3095145.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Where is this lady having lunch?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3095145,
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/179642_1796425.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Can you guess the place where this person is playing?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 1796425,
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/556758_5567585.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What kind of habitat is shown?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 5567585,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/326798_3267985.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is this building used for?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3267985,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/183217_1832175.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How is this food typically cooked?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 1832175,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/274156_2741565.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How heavy is this object?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 2741565,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/181873_1818735.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What direction is the skiier going?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 1818735,
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/308735_3087355.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is a famous chain that might serve this food?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3087355,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/59614_596145.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the name of the meal that has these ingredients?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 596145,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/430238_4302385.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What did this organism evolve from?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 4302385,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/33131_331315.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Who invented this type of device?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 331315,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/428769_4287695.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the make of the vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 4287695,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/388009_3880095.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is another color that this animal is often found in?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3880095,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/275695_2756955.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What would you find in this room?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 2756955,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/306383_3063835.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What do these animals eat?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3063835,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/276413_2764135.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Who is this cake for?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 2764135,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/188192_1881925.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Who owns these three things?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 1881925,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/53550_535505.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Would this child be more likely to enjoy a picture book or one with only words?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 535505,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/248297_2482975.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the top speed of these animals?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 2482975,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/157192_1571925.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What's the standard ripe color for objects in the picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 1571925,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/16606_166065.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What can this be used for?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 166065,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/573605_5736055.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What beverage is being served?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 5736055,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/408736_4087365.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What kind of cat is this and what are some depictions of this breed of cat in fiction?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 4087365,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/407825_4078255.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What breed of animal is on the picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 4078255,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/270148_2701485.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the breed of the cat in this picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 2701485,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/211853_2118535.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What fuel does this take?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 2118535,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/329494_3294945.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How tall are these animals?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3294945,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/428452_4284525.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the pink food in the sandwich?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 4284525,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/242513_2425135.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What rails does this vehicle drive on?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 2425135,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/113271_1132715.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What kind of dog is this?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 1132715,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/345380_3453805.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How high can this animal jump?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3453805,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/30967_309675.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Which feline has a pelt similar to this animals but with smaller detailing?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 309675,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/187745_1877455.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: When was the first airplane flight?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 1877455,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/187244_1872445.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Who is a famous american athlete that engages in this type of sport?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 1872445,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/74798_747985.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What bird is this?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 747985,
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/225721_2257215.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is this a scientist or drug addict?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 2257215,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/325114_3251145.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Would you use a broom or a mop to clean this room?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3251145,
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/292819_2928195.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: The wire filaments inside the rubber wheel are called what?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 2928195,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/91751_917515.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the player most likely kicking the ball towards?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 917515,
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/335427_3354275.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is in the bowl with the broccoli?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3354275,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/544590_5445905.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is the name for this creatures offspring?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 5445905,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/315810_3158105.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What type of hit is being preformed?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3158105,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/80194_801945.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What type of net is used to play this?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 801945,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/108208_1082085.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What culture do you believe made this food?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 1082085,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/331816_3318165.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What kind of fabric product is produced from these animals?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3318165,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/323418_3234185.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What types of planes are these?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3234185,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/274708_2747085.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is scary about this photo?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 2747085,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/54358_543585.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What religion uses the floor mat and pillow like this?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 543585,
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/104119_1041195.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: On what holiday do people traditionally eat this bird?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 1041195,
+        "label": false
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/536183_5361835.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What food is this?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 5361835,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/275020_2750205.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How do you make this food?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 2750205,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/295589_2955895.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Who is the official in this sport?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 2955895,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/127781_1277815.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Why is this cat under the umbrella?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 1277815,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/97994_979945.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What brand soda is on the desk?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 979945,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/211163_2111635.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What team does he play for?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 2111635,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/535997_5359975.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What city is this in?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 5359975,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/393145_3931455.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Is the relationship between these two animals good or bad?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 3931455,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/76588_765885.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What breed of cat is this?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 765885,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/215424_2154245.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Who should eat this?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 2154245,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/501047_5010475.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What is this animal doing?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 5010475,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/213457_2134575.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: From what source does the yellow glean on the snow come from?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "id": 2134575,
+        "label": true
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/460732_4607325.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Name the place where the monkey is sitting in this picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "label": true,
+        "id": 4607325
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/236162_2361625.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: Batman's main female villain surround herself with these?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "label": true,
+        "id": 2361625
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/147745_1477455.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What attaches behind these objects?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "label": true,
+        "id": 1477455
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/94336_943365.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What breed of cat is this?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "label": true,
+        "id": 943365
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/119308_1193085.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How did this boy get in the air?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "label": true,
+        "id": 1193085
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/142564_1425645.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: How often should children do what is shown in this photo?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "label": true,
+        "id": 1425645
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/139248_1392485.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What kind of activity is this person engaged in?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "label": true,
+        "id": 1392485
+    },
+    {
+        "system_prompt": "Answer the question Q. If you need help answer <RET> to get the context.",
+        "image": [
+            "okvqa/object_removal/val/430002_4300025.jpeg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQ: What other types of portable objects are made from the material of the tray under the food?"
+            },
+            {
+                "from": "gpt",
+                "value": "<RET> Sorry, I cannot determine the answer as there is not enough information. <RET>"
+            }
+        ],
+        "type": "counterfactual",
+        "dataset": "okvqa",
+        "label": false,
+        "id": 4300025
+    }
+]
