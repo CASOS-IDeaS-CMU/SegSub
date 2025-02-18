@@ -1,4 +1,4 @@
-## KOALA:koala:: Knowledge Conflict Augmentations for Robustness in Vision Language Models 
+## KOALA :koala:: Knowledge Conflict Augmentations for Robustness in Vision Language Models 
 
 1. [Introduction](#introduction)
 2. [Repository Organization](#repository-organization)
@@ -10,7 +10,7 @@
 
 ### Introduction
 
-This repository accompanies the paper "KOALA:koala:: Knowledge Conflict Augmentations for Robustness in Vision Language Models". It provides the codebase, dataset, and supplementary materials used in our experiments. If you use, extend or build upon this project, please cite the following paper (under review at ACL 2025):
+This repository accompanies the paper "KOALA :koala:: Knowledge Conflict Augmentations for Robustness in Vision Language Models". It provides the codebase, dataset, and supplementary materials used in our experiments. If you use, extend or build upon this project, please cite the following paper (under review at ACL 2025):
 ```
 @article{carragher2025koala,
   title=KOALA: Knowledge Conflict Augmentations for Robustness in Vision Language Models},
