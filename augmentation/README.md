@@ -13,8 +13,8 @@ Based on the previous work [see here](https://github.com/geekyutao/Inpaint-Anyth
 
 ### Setup
 ```bash
-conda create -n segsub python=3.8
-conda activate segsub
+conda create -n koala python=3.8
+conda activate koala
 pip install -r requirements.txt
 ```
 
